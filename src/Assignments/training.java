@@ -12,6 +12,7 @@ package Assignments;
 public class training {
     public static void main(String[] args) {
         System.out.println("Testing changing files on git");
+        System.out.println("Adding code from github");
     }
     
 }
